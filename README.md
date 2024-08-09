@@ -24,7 +24,7 @@
     * For the centre back, usually a combine of a Build Up (Beckenbauer, Van Dijk, De Light,...) with an Destroyer (Thiago Silva, Koulibaly,...) or you can use double Build Up.
         * **CB**: **Build up** *(Beckenbauer, Van Dijk, De Light,...)*/ **Destroyer** *(Thiago Silva, Koulibaly,...)*
     * Combine 1 attacking right-back/left-back with 1 defensive left-back/right-back to have a back up person if you take a counter.
-        * **RB/LB**: **Attacking full-back** *(Trent, Ben White,...)* / **Defensive full-back *(Wanbi Saka, Pavard,...)*
+        * **RB/LB**: **Attacking full-back** *(Trent, Ben White,...)* / **Defensive full-back** *(Wanbi Saka, Pavard,...)*
     * For the middlefiled, a cmf like Orchestrator or Creative playmaker (great ball control and good passing) combine with some Box-to-box or Hole Player for diverse attacking while dmf must have Anchorman or Destroyer for good defending and holding their position(If your CB have one Destroyer, you should use Anchorman).
         * **CMF**: **Orchestrator** *(Modric, Xhaka,...)* / **Creative plamaker** *(Pedri, De Bruyne,...)* / **Hole player** *(Bellingham, Fekir,...)* / **Box-to-Box** *(De Paul, Rice,...)* 
         * **DMF**: **Anchorman** *(Rodri, Casemiro,...)* / **Destroyer** *(Palhinha, Veira,...)*
