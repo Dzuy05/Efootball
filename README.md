@@ -18,7 +18,7 @@
 
 
 ### TIPS 
-*  In general case
+*  In general case:
     * If the playstyle have high defensive line, you should use Offensive Goalkeepers (Neuer, Allisson,...) to sweep up the space in front of them rather than to use Defensive Goalkeepers. In 
         * **GK**: **Offensive goalkeepers** *(Neuer, Onana, Allisson, ...)*
     * For the centre back, usually a combine of a Build Up (Beckenbauer, Van Dijk, De Light,...) with an Destroyer (Thiago Silva, Koulibaly,...) or you can use double Build Up.
@@ -32,7 +32,8 @@
         * **FW**: **Goal Pocher** *(Mbappe, Haaland)* / **Prolific Winger** *(Saka,Dembele)* / **Roaming Flank** *(Salah, Diaby)*
 
 ![alt text](1.jpg)
-
+* Player progression: I recommend you to level up fully for the player before adjust any points because it helps you achieve better rating than adjust little points.
+* Some stats with the 
 ### PLAYER STYLE
 
 |               PLAYING STYLE                |                     EXPLANATION                 |                COMPATIBLE POSITIONS                |
@@ -69,7 +70,39 @@
     * Cross Specialist/Prolific winger with **Pinpoint Crossing** and a Goal Poacher with **Header** and **Aerial superiority**
 
 
-I will update more when im free and there a lot more to write and copy :))))
+### SKILLS
+- Basic skills:
+    * Doubletap the joystick will stop the ball 
+    * Flick the joystick while pressing dash will push the ball further
+    * Fake shot is performed when you press shoot then flick the joystick
+- To perform a skill, you need to make a combination of the joystick and the dash button. And there are 2 things you need to notice: The player's skills and the direction of the player when you wanna perform a skill. For example, player without **Double touch** is unable to perform this skill.
+- Here is you do it: Press dash then flick your joystick to the direction you want your player to perform the skill. And normally this should be like this:
+
+|DIRECTION | SKILL APPLIED |
+|:---------:|:-------------:|
+|Front      | Double touch/ Special double touch, Scotch move, some skill i dont know the name :)))|
+|Left/ Right| Marseille turn, Chop turn|
+|Back       | Giật bóng về sau |
+
+- Some refference clips: 
+<video controls src="XRecorder_Edited_15082024_175956.mp4" title="Title"></video>
+<video controls src="XRecorder_Edited_15082024_175830.mp4" title="Title"></video>
+
+- And to perform skill effectively, it's all about timing. When your timing is perfect, you are unstoppable:
+<video controls src="XRecorder_Edited_15082024_181007.mp4" title="Title"></video>
+**This one is very basic, i use double touch to open more space to shoot**
+<video controls src="XRecorder_Edited_15082024_181437.mp4" title="Title"></video>
+**This one is similar to the above but this time chop turn is applied**
+<video controls src="XRecorder_Edited_15082024_181601.mp4" title="Title"></video>
+**This one is harder than it looks, and let me explain why:**
+    * Tiếng anh em hơi ngoo nên em giải thích tiếng việt trước ạ :'(
+    * Đầu tiên là lần chạm đầu của Del, nó chếch sang trái 1 chút để lừa hậu vệ rồi em ngoặt người sang phải quay đầu rồi dash chạy thẳng luôn
+    * Cách đá này giống y hệt cách đá của Messi ý ạ, như trong [clip](https://www.youtube.com/watch?v=sjMofjmzQKU) (phút thứ 2 và thứ 4) này luôn 
+    * Và để làm được trò này thì thằng cầu thủ của anh cần có balance 9x, ball control 9x với tight possesion 85+ thì làm mới dễ thành công ạ
+    * Xong qua được rồi thì em dash đi để thằng thủ ko tỳ mình rồi cùng lúc cbi dash tiếp vượt qua thằng hậu vệ 
+    * Trông khá dễ nhưng chắc vài trận em mới đc 1 trận như này :))))
+
+ 
 
 
 
