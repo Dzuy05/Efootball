@@ -102,9 +102,9 @@ https://github.com/user-attachments/assets/ababad88-2039-439c-9e6f-38418a5dc54f
 
 https://github.com/user-attachments/assets/574384f1-317d-42c9-87c2-f4170a6c7b78
 
-**This one is harder than it looks, and let me explain why:**
+**This one is harder than it looks, and let me explain why:** 
 
-    * Tiếng anh em hơi ngoo nên em giải thích tiếng việt trước ạ :'(
+* Tiếng anh em hơi ngoo nên em giải thích tiếng việt trước ạ :'(
     * Đầu tiên là lần chạm đầu của Del, nó chếch sang trái 1 chút để lừa hậu vệ rồi em ngoặt người sang phải quay đầu rồi dash chạy thẳng luôn
     * Cách đá này giống y hệt cách đá của Messi ý ạ, như trong [clip](https://www.youtube.com/watch?v=sjMofjmzQKU) (phút thứ 2 và thứ 4) này luôn 
     * Và để làm được trò này thì thằng cầu thủ của anh cần có balance 9x, ball control 9x với tight possesion 85+ thì làm mới dễ thành công ạ
