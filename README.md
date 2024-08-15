@@ -85,15 +85,13 @@
 |Back       | Giật bóng về sau |
 
 - Some refference clips: 
-<video controls src="XRecorder_Edited_15082024_175956.mp4" title="Title"></video>
-<video controls src="XRecorder_Edited_15082024_175830.mp4" title="Title"></video>
 
 - And to perform skill effectively, it's all about timing. When your timing is perfect, you are unstoppable:
-<video controls src="XRecorder_Edited_15082024_181007.mp4" title="Title"></video>
+
 **This one is very basic, i use double touch to open more space to shoot**
-<video controls src="XRecorder_Edited_15082024_181437.mp4" title="Title"></video>
+
 **This one is similar to the above but this time chop turn is applied**
-<video controls src="XRecorder_Edited_15082024_181601.mp4" title="Title"></video>
+
 **This one is harder than it looks, and let me explain why:**
     * Tiếng anh em hơi ngoo nên em giải thích tiếng việt trước ạ :'(
     * Đầu tiên là lần chạm đầu của Del, nó chếch sang trái 1 chút để lừa hậu vệ rồi em ngoặt người sang phải quay đầu rồi dash chạy thẳng luôn
