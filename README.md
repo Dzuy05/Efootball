@@ -84,13 +84,23 @@
 |Left/ Right| Marseille turn, Chop turn|
 |Back       | Giật bóng về sau |
 
-- Some refference clips: 
+- Some refference clips:
+
+https://github.com/user-attachments/assets/ff59a770-e703-47b7-bac2-5422e6146307
+
+https://github.com/user-attachments/assets/b78c7db6-704c-40f5-a7c5-e53e93879270
 
 - And to perform skill effectively, it's all about timing. When your timing is perfect, you are unstoppable:
 
+https://github.com/user-attachments/assets/380a68bb-e3cf-406c-81fe-96a03e890e78
+
 **This one is very basic, i use double touch to open more space to shoot**
 
+https://github.com/user-attachments/assets/ababad88-2039-439c-9e6f-38418a5dc54f
+
 **This one is similar to the above but this time chop turn is applied**
+
+https://github.com/user-attachments/assets/574384f1-317d-42c9-87c2-f4170a6c7b78
 
 **This one is harder than it looks, and let me explain why:**
     * Tiếng anh em hơi ngoo nên em giải thích tiếng việt trước ạ :'(
